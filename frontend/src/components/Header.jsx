@@ -34,7 +34,7 @@ const Header = ({ darkMode, setDarkMode, children }) => {
           <Tooltip title="View on GitHub">
             <IconButton
               color="inherit"
-              onClick={() => window.open('https://github.com/yourusername/llama-chat', '_blank')}
+              onClick={() => window.open('https://github.com/srihari-976/LUMINA', '_blank')}
               sx={{ 
                 color: theme.palette.text.primary,
                 '&:hover': {
