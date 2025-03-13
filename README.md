@@ -5,7 +5,7 @@ LUMINA is an advanced AI chatbot powered by **LLaMA 3.1 70B**, designed to provi
 ## 🚀 Live Application
 Check out the deployed version of LUMINA AI:
 
-🔗 [![LUMINA AI](https://img.shields.io/badge/Live%20Application-Click%20Here-brightgreen)](https://luminaai-rouge.vercel.app/)
+🔗 [![LUMINA AI](https://img.shields.io/badge/Live%20Application-Click%20Here-brightgreen)](https://lumina-pz6tn1y2x-srihariramesh2004s-projects.vercel.app/)
 
 ---
 
