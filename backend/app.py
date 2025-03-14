@@ -11,7 +11,7 @@ CORS(app)
 def load_model():
     try:
         # Use the original model path from your fine-tuning script
-        model_path = "meta-llama/Meta-Llama-3-70B-Instruct"
+        model_path = "srihari-976/Meta-Llama-3.1-70B-Instruct"
         access_token = "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"
         
         # Load the model with the same quantization config used during training
