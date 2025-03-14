@@ -1,11 +1,11 @@
 # LUMINA - AI
 
-LUMINA is an advanced AI chatbot powered by **LLaMA 3.1 70B**, designed to provide intelligent and context-aware conversations. The model is trained and stored on **Hugging Face** and seamlessly connected to a frontend hosted at **[Lumina AI](https://lumina-pz6tn1y2x-srihariramesh2004s-projects.vercel.app/)**.
+LUMINA is an advanced AI chatbot powered by **LLaMA 3.1 70B**, designed to provide intelligent and context-aware conversations. The model is trained and stored on **Hugging Face** and seamlessly connected to a frontend hosted at **[Lumina AI](https://luminaai-rouge.vercel.app/)**.
 
 ## 🚀 Live Application
 Check out the deployed version of LUMINA AI:
 
-🔗 [![LUMINA AI](https://img.shields.io/badge/Live%20Application-Click%20Here-brightgreen)](https://lumina-pz6tn1y2x-srihariramesh2004s-projects.vercel.app/)
+🔗 [![LUMINA AI](https://img.shields.io/badge/Live%20Application-Click%20Here-brightgreen)](https://luminaai-rouge.vercel.app/)
 
 ---
 
